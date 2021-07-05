@@ -10,4 +10,4 @@ El método **sendwhatmsg** recibe 4 parámetros:
 3. La hora a la que se va a enviar el mensaje 
 4. El minuto en el que se va a enviar el mensaje 
 
-** NOIA: ANTES DE EJECUTAR EL CÓDIGO ASEGURATE DE TENER INSTALADA LA LIBRERÍA pywhatkit, DE LO CONTRARIO , INSTALA LA LIBREÍA EJCUTANDO EL COMANDO pip install pywhatkit EN LA TERMINAL**
+** NOTA: ANTES DE EJECUTAR EL CÓDIGO ASEGURATE DE TENER INSTALADA LA LIBRERÍA pywhatkit, DE LO CONTRARIO , INSTALA LA LIBREÍA EJCUTANDO EL COMANDO pip install pywhatkit EN LA TERMINAL**
